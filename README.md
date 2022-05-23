@@ -7,7 +7,7 @@
 
 ## Вспомогательные:
 1. hex_coords.json – координаты смещений от позиции каждого леда для подсчета MAX и AVG 
-2. zerman_led_psf.csv – 2d(1025x1025) PSF Цермановского дисплея р
+2. zerman_led_psf.csv – 2d(1025x1025) PSF Цермановского дисплея
 3. Zermans_LEDS_POSITION_2202.json – позиции ледов относительно LCD для Цермановского дисплея
 4. python_files/fft_conv – реализация свертки для большого ядра с помощью быстрого преобразования Фурье из https://github.com/fkodom/fft-conv-pytorch
 5. python_files/HDRnew.py – исходная модель нейронной сети
